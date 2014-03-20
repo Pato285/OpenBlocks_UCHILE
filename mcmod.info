@@ -1,0 +1,20 @@
+[
+{
+  "modid" : "OpenBlocks",
+  "name" : "OpenBlocks",
+  "version" : "@VERSION@",
+  "url" : "http://www.openperipheral.info",
+  "credits" : "",
+  "authors": [
+    "Mikee",
+    "NeverCast",
+    "boq",
+    "Lyqyd"
+  ],
+  "description": "All the things you never thought you will ever need",
+  "logoFile" : "",
+  "updateUrl" : "",
+  "parent" : "",
+  "screenshots": [
+  ]
+}]
